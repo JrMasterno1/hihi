@@ -1,3 +1,4 @@
+//Tìm số chẵn nhỏ nhất lớn hơn tất cả số lẻ trong mảng
 #include <stdio.h>
 #define Hoanvi(a,b) { auto t = a; a = b; b = t; }
 void SapXepMang(int a[], int n)
